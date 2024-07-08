@@ -9,6 +9,8 @@ nav_order: 1
 
 🛍️ Nestled in the vibrant heart of Kyoto, Kunochi invites you on a captivating journey through the best of Japanese culture. Explore our curated selection of premium products and indulge in delectable Japanese cuisine, all at prices that won’t break the bank.
 
+🔎 You can use the navigation pane or the search bar to explore our documentation. Happy searching!
+
 {: .warning }
 > This documentation center is currently under maintenance. If you find any missing information, please contact fatalgrime or open a ticket on our Discord server!
 
