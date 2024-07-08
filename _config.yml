@@ -42,9 +42,9 @@ aux_links:
     - "https://www.roblox.com/groups/34484530/Kunochi-Shopping#!/about"
   "Discord Server":
     - "https://discord.gg/y7c5mRTPuF"
-  "Main Store";
+  "Main Store":
     - "https://www.roblox.com/games/18242896531/WORK-AT-A-STORE-Kunochi-Store-Roleplay"
-  "Training Center"
+  "Training Center":
     - "https://www.roblox.com/games/18388657240/Training-Center"
 
 # Back to top link
@@ -87,6 +87,3 @@ callouts:
   warning:
     title: Warning
     color: red
-
-
-
